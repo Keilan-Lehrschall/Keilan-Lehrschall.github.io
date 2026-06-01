@@ -1,7 +1,7 @@
 ---
 title: "Portfolio item number 1"
 excerpt: "Partner Choice Javascript Project: Pokemon Battle Simulator<br/><img src='/images/500x300.png'>"
-collection: "portfolio"
+collection: portfolio
 
 ---
 
