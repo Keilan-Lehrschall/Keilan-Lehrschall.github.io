@@ -16,17 +16,17 @@ I am a student at Richland High School interested in technology and computer sci
 
 ## Skills
 
-|TECHNICAL|
--Programming games using loops, parameters, and functions with Javascript and Python
--Programming on-demand programs using objects, classes, arrays, and methods using Java
--Communicating information via online platforms such as Microsoft Word, Github, and Google Slides
-|SOFT|
--Memorizing a variety of topics and skills
--Collaborating meaningfully on projects with others
--Attending and organizing various service projects
+|TECHNICAL|\
+-Programming games using loops, parameters, and functions with Javascript and Python\
+-Programming on-demand programs using objects, classes, arrays, and methods using Java\
+-Communicating information via online platforms such as Microsoft Word, Github, and Google Slides\
+|SOFT|\
+-Memorizing a variety of topics and skills\
+-Collaborating meaningfully on projects with others\
+-Attending and organizing various service projects\
 
 ## Career Goals
 I aim to be a competent, hard-working, and above all else adaptive member of the workforce by undertaking a wide variety of skills (such as Computer Science) to prepare myself for the ever changing world. I hope to attend Eastern Washington University and study to become a history teacher/professor to pass on these skills and strengthen the newer generations.
 
 
-markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
