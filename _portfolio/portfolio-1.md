@@ -1,6 +1,6 @@
 ---
 title: "Javascript Partner Choice: Pokemon Battle Simulator"
-excerpt: "Pokemon Battle Simulator created using Javascript via collaboration<br/><img src='/images/2026-06-03074352.png'>"
+excerpt: "Pokemon Battle Simulator created using Javascript via collaboration<br/><img src='/images/Screenshot2026-06-03074352.png'>"
 collection: portfolio
 ---
 
@@ -9,5 +9,5 @@ The project uses lots of parameters and arrays in order to create the many Pokem
 This project taught me better communication and collaboration skills, research skills (since we had to search specific stats and calculations for the simulator to work as intended), and budgeting workloads between both programmers.\
 Some challenges we overcame include improving code readability, disagreement resolution, and frequent loop and parameter errors.
 
-2026-06-03074352.png
+Screenshot2026-06-03074352.png
 
