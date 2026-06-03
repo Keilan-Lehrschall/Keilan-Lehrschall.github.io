@@ -1,5 +1,5 @@
 ---
-title: "KEY Club Basketball Concessions Volunteering"
+title: "KEY Club Basketball Concessions Volunteering<br/><img src='/images/image.jpeg'>"
 excerpt: "Volunteer project involving making and marketing concessions"
 collection: portfolio
 ---
@@ -8,4 +8,6 @@ In this project, I volunteered at an RHS basketball game and prepared concession
 For this volunteer project, I utilized a popcorn machine to prepare concessions for order. The rest of the concessions (e.g. water, Powerade), I could physically bring to the counter. \
 This project taught me basic technical skills regarding concession preparation, along with improving my teachability and teaching skills, as I was able to pass on my popcorn machine knowledge to volunteers who arrived later. \
 The main challenge I faced was learning how to operate concession equipment, which other volunteers were able to walk me through and I was able to discern later into my work. 
+
+<br/><img src='/images/image.jpeg'>
 
