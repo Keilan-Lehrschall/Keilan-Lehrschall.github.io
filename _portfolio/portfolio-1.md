@@ -1,6 +1,6 @@
 ---
 title: "Javascript Partner Choice: Pokemon Battle Simulator"
-excerpt: "Pokemon Battle Simulator created using Javascript via collaboration<br/><img src='/images/Screenshot 2026-06-03 074352.png'>"
+excerpt: "Pokemon Battle Simulator created using Javascript via collaboration<br/><img src='/images/pokeBattle.png'>"
 collection: portfolio
 ---
 
