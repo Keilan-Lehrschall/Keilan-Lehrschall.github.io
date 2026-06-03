@@ -23,10 +23,10 @@ repository               : "Keilan-Lehrschall.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilePic.png"
   name             : "Keilan Lehrschall"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Cultivating myself and the world, one line of code at a time."
   location         : "Richland, WA"
   employer         : "Richland High School"
   uri              : # URL
