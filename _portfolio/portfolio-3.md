@@ -14,4 +14,4 @@ This project taught me and Jaylan how to collaborate and work as pair programmer
 
 We also learned how to better solve disagreements between team members and to utilize while loops to make an autonomous opponent in-game.
 
-blackjackCode.png
+
