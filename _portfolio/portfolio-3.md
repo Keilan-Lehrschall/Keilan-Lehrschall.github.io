@@ -1,5 +1,5 @@
 ---
-title: "AP Performance Task: Blackjack<br/><img src='/images/Screenshot 2026-05-28 094113.png'>"
+title: "AP Performance Task: Blackjack<br/><img src='/images/images/blackjackCode.png'>"
 excerpt: "Collaborative Javascript game designing in preparation for CSP exam"
 collection: portfolio
 
@@ -14,4 +14,4 @@ This project taught me and Jaylan how to collaborate and work as pair programmer
 
 We also learned how to better solve disagreements between team members and to utilize while loops to make an autonomous opponent in-game.
 
-
+images/blackjackCode.png
