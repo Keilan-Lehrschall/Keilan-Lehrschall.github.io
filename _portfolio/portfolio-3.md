@@ -1,5 +1,5 @@
 ---
-title: "AP Performance Task: Blackjack<br/><img src='/images/500x300.png'>"
+title: "AP Performance Task: Blackjack<br/><img src='/images/Screenshot 2026-05-28 094113.png'>"
 excerpt: "Collaborative Javascript game designing in preparation for CSP exam"
 collection: portfolio
 
