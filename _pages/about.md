@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-# Keilan Lehrschall
+
 
 ## About me
 I am a student at Richland High School interested in technology and computer science. I enjoy learning and practicing a variety of different skills, such as programming (via Python, Javascript and Java), driving, history, mathematics, etc. and I consider myself an open book as a result. I take great passion in learning as much as possible so I can help the community with thoughtful and high quality work.
